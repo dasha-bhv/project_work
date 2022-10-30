@@ -1,4 +1,4 @@
-const Spaces = require('../framework/services/methods');
+const Spaces = require('../src/clients/methods');
 
 
 describe('Tests for spaces', () => {
@@ -36,52 +36,5 @@ describe('Tests for spaces', () => {
     const updSpace = await Spaces.update(spaceupId, { external_id: 899 });
     const showspace = await Spaces.getSpace(spaceupId);
     expect(showspace.data.external_id).toEqual("899");
-  });
-  test('Remove added space', async () => {
-    const space = await Spaces.addSpace({ title: 'Remove this Space' });
-    const spacedelId = space.data.id;
-    const removesp = await Spaces.removeSpace(spacedelId);
-    expect(removesp.status).toEqual(200);
-  });
-  test('Remove space and check it', async () => {
-    const space = await Spaces.addSpace({ title: 'Remove this Space' });
-    const spacedelId = space.data.id;
-    const removesp = await Spaces.removeSpace(spacedelId);
-    const getremovedspace = await Spaces.getSpace(removesp);
-    expect(getremovedspace.status).toEqual(404);
-  });
-  test('Remove non-existent space', async () => {
-    const removesp = await Spaces.removeSpace(2211);
-    expect(removesp.status).toEqual(403);
-  });
-});
-
-describe('Tests for boards', () => {
-  test('Add new board', async () => {
-    const space = await Spaces.addSpace({ title: 'new_space' });
-    const spaceId = space.data.id;
-    const board = await Spaces.addBoard(spaceId, { title: 'new_board', columns: [], lanes: [] });
-    expect(board.status)
-      .toEqual(200);
-  });
-  test('Get board', async () => {
-    const space = await Spaces.addSpace({ title: 'new_space' });
-    const spaceId = space.data.id;
-    const board = await Spaces.addBoard(spaceId, { title: 'deleted_board', columns: [], lanes: [] });
-    const boardId = board.data.id;
-    const getboard = await Spaces.getBoard(spaceId, boardId);
-    expect(getboard.status)
-      .toEqual(200);
-    expect(getboard.data.title)
-      .toEqual('deleted_board');
-  });
-  test('Delete board', async () => {
-    const space = await Spaces.addSpace({ title: 'new_space' });
-    const spaceId = space.data.id;
-    const board = await Spaces.addBoard(spaceId, { title: 'deleted_board', columns: [], lanes: [] });
-    const boardId = board.data.id;
-    const delboard = await Spaces.deleteBoard(spaceId, boardId);
-    expect(delboard.status)
-      .toEqual(200);
   });
 });
