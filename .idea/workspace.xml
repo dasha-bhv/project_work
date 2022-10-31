@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94359716-eb64-49c6-990d-126dcfc7dbe1" name="Default Changelist" comment="for my tests.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GRtPmcxsrSzZvIhvteVuqJWlIp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.5" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/framework/settings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Tests for spaces.Add new space">
+    <configuration name="Tests for spaces" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/Specs/mytests.spec.js" />
+      <test-names>
+        <test-name value="Tests for spaces" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests for spaces.Add new space" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/Specs/mytests.spec.js" />
+      <test-names>
+        <test-name value="Tests for spaces" />
+        <test-name value="Add new space" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests for spaces.Get added space" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/Specs/mytests.spec.js" />
+      <test-names>
+        <test-name value="Tests for spaces" />
+        <test-name value="Get added space" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Tests for spaces.Add new space" />
+        <item itemvalue="Jest.Tests for spaces" />
+        <item itemvalue="Jest.Tests for spaces.Get added space" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94359716-eb64-49c6-990d-126dcfc7dbe1" name="Default Changelist" comment="" />
+      <created>1666363205410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666363205410</updated>
+      <workItem from="1666363208424" duration="3971000" />
+      <workItem from="1666367449121" duration="15503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="for my tests.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="for my tests.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="398" key="GridCell.Tab.0.bottom" timestamp="1667159232172">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="398" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1667159232172" />
+    <state width="1750" height="398" key="GridCell.Tab.0.center" timestamp="1667159232171">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="398" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1667159232171" />
+    <state width="1750" height="398" key="GridCell.Tab.0.left" timestamp="1667159232171">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="398" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1667159232171" />
+    <state width="1750" height="398" key="GridCell.Tab.0.right" timestamp="1667159232172">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="398" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1667159232172" />
+    <state width="875" height="486" key="GridCell.Tab.1.bottom" timestamp="1666367963023">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.1.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963023" />
+    <state width="875" height="486" key="GridCell.Tab.1.center" timestamp="1666367963023">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.1.center/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963023" />
+    <state width="875" height="486" key="GridCell.Tab.1.left" timestamp="1666367963022">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.1.left/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963022" />
+    <state width="875" height="486" key="GridCell.Tab.1.right" timestamp="1666367963023">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.1.right/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963023" />
+    <state width="875" height="486" key="GridCell.Tab.2.bottom" timestamp="1666367963025">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.2.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963025" />
+    <state width="875" height="486" key="GridCell.Tab.2.center" timestamp="1666367963024">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.2.center/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963024" />
+    <state width="875" height="486" key="GridCell.Tab.2.left" timestamp="1666367963024">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.2.left/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963024" />
+    <state width="875" height="486" key="GridCell.Tab.2.right" timestamp="1666367963024">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.2.right/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963024" />
+    <state width="875" height="486" key="GridCell.Tab.3.bottom" timestamp="1666367963025">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.3.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963025" />
+    <state width="875" height="486" key="GridCell.Tab.3.center" timestamp="1666367963025">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.3.center/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963025" />
+    <state width="875" height="486" key="GridCell.Tab.3.left" timestamp="1666367963025">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.3.left/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963025" />
+    <state width="875" height="486" key="GridCell.Tab.3.right" timestamp="1666367963025">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="875" height="486" key="GridCell.Tab.3.right/0.25.1792.1095@0.25.1792.1095" timestamp="1666367963025" />
+    <state x="496" y="309" key="Vcs.Push.Dialog.v2" timestamp="1667160861319">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="496" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1667160861319" />
+  </component>
+</project>
